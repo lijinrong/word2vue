@@ -1,0 +1,7 @@
+src
+.npmignore
+.gitignore
+.eslintrc
+.eslintignore
+package-lock.json
+
