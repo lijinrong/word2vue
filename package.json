@@ -1,6 +1,6 @@
 {
   "name": "word2vue",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "把word文档转成vue文件",
   "private": false,
   "main": "index.js",
@@ -11,6 +11,10 @@
   },
   "bin": {
     "word2vue": "./bin/word2vue.js"
+  },
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/lijinrong/word2vue"
   },
   "author": "lijinrong",
   "license": "ISC",
