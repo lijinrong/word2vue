@@ -1,6 +1,6 @@
 {
   "name": "word2vue",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "把word文档转成vue文件",
   "private": false,
   "main": "index.js",

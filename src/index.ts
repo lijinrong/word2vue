@@ -28,7 +28,6 @@ function transformElement(element: any) {
     element = { ...element, children: children };
   }
   if (element.type === 'paragraph') {
-    console.log(element);
     element = transformParagraph(element);
   }
   return element;
